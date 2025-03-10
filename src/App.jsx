@@ -91,7 +91,7 @@ function App() {
 
           <Route path="/" element={<HeroBanner />} />
         </Routes>
-        <footer className="bg-base-200 w-full p-3 mt-4 flex items-center justify-center">
+        <footer className="bg-base-200 w-full p-3 mt-4 flex items-center justify-center absolute bottom-0">
           <p className="text-primary">
             Developed by Joy
             <span className="text-base-content"> You can reach me via email at <a className="text-primary" href="mailto:amirmahdisatttariams@gmail.com">amirmahdisattariams@gmail.com</a>.</span>
