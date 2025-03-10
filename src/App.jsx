@@ -40,7 +40,7 @@ function App() {
               <input
                 type="radio"
                 name="theme-dropdown"
-                className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
+                className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                 aria-label="Default"
                 value="default"
               />
@@ -49,7 +49,7 @@ function App() {
               <input
                 type="radio"
                 name="theme-dropdown"
-                className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
+                className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                 aria-label="Retro"
                 value="retro"
               />
@@ -58,7 +58,7 @@ function App() {
               <input
                 type="radio"
                 name="theme-dropdown"
-                className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
+                className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                 aria-label="Cyberpunk"
                 value="cyberpunk"
               />
@@ -67,7 +67,7 @@ function App() {
               <input
                 type="radio"
                 name="theme-dropdown"
-                className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
+                className="theme-controller btn btn-sm btn-block btn-ghost justify-start"
                 aria-label="Valentine"
                 value="valentine"
               />
@@ -76,7 +76,7 @@ function App() {
               <input
                 type="radio"
                 name="theme-dropdown"
-                className="theme-controller w-full btn btn-sm btn-block btn-ghost justify-start"
+                className="theme-controller  btn btn-sm btn-block btn-ghost justify-start"
                 aria-label="Aqua"
                 value="aqua"
               />
@@ -94,7 +94,7 @@ function App() {
         <footer className="bg-base-200 w-full p-3 mt-4 flex items-center justify-center">
           <p className="text-primary">
             Developed by Joy
-            <span className="text-base-content"> You can reach me via email at <a className="text-primary" href="mailto:amirmahdisatttariams@gmail.com">amirmahdisatttariams@gmail.com</a>.</span>
+            <span className="text-base-content"> You can reach me via email at <a className="text-primary" href="mailto:amirmahdisatttariams@gmail.com">amirmahdisattariams@gmail.com</a>.</span>
           </p>
         </footer>
 
